@@ -1,0 +1,6 @@
+#!/bin/bash
+
+arroser() {
+echo "Je m'amuse tellement à faire du bash"
+}
+

@@ -1,0 +1,12 @@
+commande pstree -pA (réponse diapo 8 cours processus)
+commande ps -l pour le 
+yes == flood
+c'est le gnome puis le processus yes
+c'ets le processus qu'on vient de lancer en mode détaché
+
+/proc/$PID contient le détail du processus
+cmdline : texte de la ligne de commande ayant lancé le processus
+
+ps -e pour voir tous les processus
+
+pid du dernier processus lancé $!

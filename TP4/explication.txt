@@ -1,0 +1,6 @@
+la flemme d'expliquer........
+
+en gros pour créer l'arborescence j'ai créé le rép. parent par ex "mkdir R1" puis
+les enfants avec "mkdir R1/R2". En utilisant la flèche du haut j'avais pour certains
+enfants que la dernière lettre à modifier.
+
